@@ -2,3 +2,8 @@ body {
     background: black;
     color: #bbbbbb;
 }
+
+pre {
+    font-family: Menlo, 'Lucida Sans Typewriter', 'Lucida Console', Monaco, 'Bitstream Vera Sans Mono', monospace;
+    font-size: 75%;
+}
